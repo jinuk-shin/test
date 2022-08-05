@@ -1,5 +1,7 @@
-* [English](en)
-* [한국어](ko)
+# 언어
+
+* [English](en/)
+* [한국어](ko/)
 
 <!--
 * [Português](pt-br)
