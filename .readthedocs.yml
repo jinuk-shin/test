@@ -5,6 +5,3 @@ build:
   os: ubuntu-20.04
   tools:
     python: "3.10"
-
-# Define the version of documentation to be built
-docs_version: latest
