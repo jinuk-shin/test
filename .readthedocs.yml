@@ -3,10 +3,10 @@
 # Build documentation in the docs/ directory with Sphinx
 build:
   image: latest
-
-  # Set the Sphinx documentation version
-  sphinx:
-    configuration: docs/conf.py
+  
+# Build documentation in the docs/ directory with Sphinx
+build:
+  image: latest
 
 # Define the version of documentation to be built
 docs_version: latest
