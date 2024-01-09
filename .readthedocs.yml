@@ -1,0 +1,9 @@
+build:
+  image: latest
+
+  # Set the Sphinx documentation version
+  sphinx:
+    configuration: docs/source/conf.py
+
+# Define the version of documentation to be built
+docs_version: latest
